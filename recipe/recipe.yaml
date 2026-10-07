@@ -1,5 +1,5 @@
 context:
-  version: "0.1.6"
+  version: "0.1.7"
 
 package:
   name: agentjit
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/a/agentjit/agentjit-${{ version }}.tar.gz
-  sha256: 03c8476257d7d3ddf0495692750aa723784d9b758c075933262fab21ea9dfe84
+  sha256: eb93f8e2182104b7554c7687b238a5bc2c1d3e5427b0a2d981ae8089a1e15d4b
 
 build:
   number: 0
